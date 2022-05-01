@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/Mr-Ghost/heroku-xv2ray-server",
+    "repository": "https://github.com/Mr-Ghost001/heroku-v2ray-server",
     "stack": "container"
 }
