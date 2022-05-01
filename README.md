@@ -12,7 +12,7 @@ ____
 
 ⭕ ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
 
-<p><a href="https://github.com/BadPramaya/heroku-xray-server.me"> /></a></p>
+<p><a href="https://github.com/Mr-Ghost001/heroku-xray-server.me"> /></a></p>
 
 ___
 - ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
@@ -22,7 +22,7 @@ ___
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/BadPramaya/heroku-xray-server.me"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Mr-Ghost001/heroku-xray-server.me"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
@@ -45,7 +45,3 @@ ______
 
 - ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
 _________
-### CREDIT
-Thanks To:
-- [teddysun](https://github.com/teddysun) For Main Repo
-- [iamtrazy](https://github.com/iamtrazy) For Heroku Deployable Repo
