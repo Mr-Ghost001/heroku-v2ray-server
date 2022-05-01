@@ -12,7 +12,7 @@ ____
 
 ⭕ ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
 
-<p><a href="https://github.com/Mr-Ghost001/heroku-xray-server.me"> /></a></p>
+<p><a href="https://github.com/Mr-Ghost001/heroku-v2ray-server"> /></a></p>
 
 ___
 - ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
